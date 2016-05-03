@@ -8,7 +8,7 @@ by clicking on one of the links below.
 
 | Section Number | Section Name | Link to Commit |
 |---------------------------------------------------|------------| --- |
-|	1	|	Introduction                                                                    	|		|
+|	1	|	Introduction |		|
 |	2	|	Link to Github Repository	|		|
 |	3	|	JSX Markup in Our Views                                                         	|		|
 |	4	|	First Application - Basic Building Blocks                                       	|	[6eac86c](https://github.com/StephenGrider/ReactCasts/commit/c5b1923)	|
